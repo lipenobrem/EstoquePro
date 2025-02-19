@@ -14,7 +14,7 @@ define('BASE_URL', 'http://localhost/projeto_pessoal/EstoquePro-1/EstoquePro');
 <body>
     <header class="header">
         <div class="container">
-            <h1 class="logo">Estoque Web</h1>
+            <h1 class="logo">EstoquePro</h1>
             <nav class="nav">
                 <ul>
                     <li><a href="<?= BASE_URL ?>/public/index.php">Início</a></li>
